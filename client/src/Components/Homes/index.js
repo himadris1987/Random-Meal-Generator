@@ -16,7 +16,7 @@ function Homes (){
     Bon Appetit!
   </p>
   <p>
-  <Button href="client/src/Pages/Results.js">Search Page</Button> 
+  <Button href="/Results">Search Page</Button> 
   </p>
 </Jumbotron>
     );
